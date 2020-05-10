@@ -1,6 +1,6 @@
 # discord-link-bot
 
-link bot is using by some discord server that do not allow members to create an invitaion link by themselves,
+link bot is using by some discord server that do not allow members to create an invitation link by themselves,
 but throw a bot command which like "link", "رابط" or "invite" etc ..
 
 # what's the new about this one
