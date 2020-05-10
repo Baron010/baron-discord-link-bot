@@ -1,0 +1,26 @@
+{
+  "name": "Baron-discord-link-bot",
+  "version": "0.0.1",
+  "description": "it's a new idea for a discord bot that give the member an invite link when he types a command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.2",
+    "pretty-ms": "^7.0.0",
+    "pretty-seconds": "^1.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/Baron010/baron-discord-link-bot"
+  },
+  "keywords": [
+    "node",
+    "discord",
+    "baron"
+  ]
+}
