@@ -20,4 +20,4 @@ but throw a bot command which like "link", "رابط" or "invite" etc ..
 - check.json
 ```
 
-<img width="900" height="300" align="center" style="float: left; margin: 0 10px 0 0;" alt="Baron-Bot" src="https://media.discordapp.net/attachments/645077799404830739/708919171089563704/info.png?width=1026&height=468">
+<img width="900" height="500" align="center" style="float: left; margin: 0 10px 0 0;" alt="Baron-Bot" src="https://media.discordapp.net/attachments/645077799404830739/708919171089563704/info.png?width=1026&height=468">
