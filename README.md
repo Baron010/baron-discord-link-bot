@@ -21,3 +21,8 @@ but throw a bot command which like "link", "رابط" or "invite" etc ..
 ```
 
 <img width="821" height="374" align="center" style="float: left; margin: 0 10px 0 0;" alt="Baron-Bot" src="https://media.discordapp.net/attachments/645077799404830739/708919171089563704/info.png?width=1026&height=468">
+
+# Remix from Gltich.com 
+```fix
+https://glitch.com/~discord-link-bot
+```
